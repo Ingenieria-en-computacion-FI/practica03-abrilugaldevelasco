@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-// Definimos la estructura aquí para que sea privada
 struct Nodo {
     int dato;
 };
